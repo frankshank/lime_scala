@@ -1,4 +1,4 @@
-lime_scala
+lime scala
 ==========
 
 A zesty bog roller in Scala
